@@ -64,7 +64,7 @@ function getMostPopularBooks(books) {
     })
     .slice(0, 5);
 }
-c
+
 function getMostPopularAuthors(books, authors) {
   // 19) should return an ordered list of most popular authors
   // 20) should limit the list to the top five
